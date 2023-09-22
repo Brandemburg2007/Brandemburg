@@ -1,11 +1,11 @@
 # Brandemburg
 body{
 background imagage: url
-backgrund-sia:cover
+background-sia:cover
 background-repeat: no-repeat
 bckground attachment fixed;
 background-position:center center:
-color:whith
+color:black
 font,family:arial sans-serif;
 teat-alingn: center
 margin:0;
